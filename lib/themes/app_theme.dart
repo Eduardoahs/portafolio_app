@@ -13,12 +13,7 @@ class AppTheme {
       brightness: Brightness.dark,
       scaffoldBackgroundColor: fondo,
       primaryColor: acento,
-      textTheme: GoogleFonts.poppinsTextTheme(
-        ThemeData.dark().textTheme,
-      ).apply(
-        bodyColor: textoPrincipal,
-        displayColor: textoPrincipal,
-      ),
+      fontFamily: GoogleFonts.poppins().fontFamily,
       appBarTheme: AppBarTheme(
         backgroundColor: superficie,
         elevation: 0,

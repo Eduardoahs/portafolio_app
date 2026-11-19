@@ -1,17 +1,27 @@
-# portafolio_app
+# Portafolio Personal - Eduardo Hernandez
 
-A new Flutter project.
+Este es mi portafolio personal desarrollado como proyecto para la materia de Programación III. 
 
-## Getting Started
+## Descripción
+La aplicación muestra información sobre mí, mis hobbies, proyectos y una sección de comentarios. Fue desarrollada con Flutter y cuenta con un diseño oscuro personalizado.
 
-This project is a starting point for a Flutter application.
+## Características
+- Pantalla de inicio con foto de perfil y botones de navegación.
+- Sección "Sobre mí" con información personal y hobbies.
+- Sección de contacto con enlaces directos a correo, teléfono y GitHub.
+- Sección de comentarios (visual).
+- Navegación mediante rutas.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologías usadas
+- Flutter
+- Dart
+- Google Fonts (dependencia)
+- URL Launcher (dependencia)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Cómo ejecutar
+1. Clonar el repositorio.
+2. Ejecutar `flutter pub get`.
+3. Ejecutar `flutter run`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Desarrollado por Eduardo Hernandez - UNIMAR
